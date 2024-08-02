@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-movietrivia-dev-23961-authRole",
+      "UnauthRoleArn": "arn:aws:iam::887364192030:role/amplify-movietrivia-dev-23961-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::887364192030:role/amplify-movietrivia-dev-23961-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-movietrivia-dev-23961-deployment",
+      "UnauthRoleName": "amplify-movietrivia-dev-23961-unauthRole",
+      "StackName": "amplify-movietrivia-dev-23961",
+      "StackId": "arn:aws:cloudformation:us-east-1:887364192030:stack/amplify-movietrivia-dev-23961/1e175710-5095-11ef-ba45-0affd1ccd2b3",
+      "AmplifyAppId": "d2v4iu851y7bs1"
+    },
+    "categories": {
+      "auth": {
+        "movietrivia69ff721d": {}
+      }
+    }
+  }
+}
