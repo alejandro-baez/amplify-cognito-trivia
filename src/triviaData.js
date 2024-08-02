@@ -1,11 +1,5 @@
 const triviaData = [
   {
-    question:
-      "The 2014 film “Whiplash” features Miles Teller as a driven musician who plays what kind of instrument?",
-    options: ["The guitar", "The cello", "The drums", "The harp"],
-    answer: "The drums",
-  },
-  {
     question: "Freddy Krueger wears a striped sweater that is which colors?",
     options: [
       "Red and blue",
